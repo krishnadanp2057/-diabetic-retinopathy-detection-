@@ -2,6 +2,7 @@ Diabetic Retinopathy Detection System
 This project is a comprehensive solution for detecting diabetic retinopathy using deep learning techniques. Diabetic retinopathy is a medical condition that affects the eyes, and early detection is crucial for preventing severe complications. This system leverages a Convolutional Neural Network (CNN) to analyze retinal images and classify them based on the severity of diabetic retinopathy.
 
 Key Features:
+
 Deep Learning Model: Utilizes a CNN trained on a large dataset of retinal images to accurately detect and classify diabetic retinopathy.
 Streamlit Web Application: A user-friendly web interface built with Streamlit that allows users to upload retinal images and receive instant diagnostic feedback.
 Image Preprocessing: Implements image preprocessing techniques to enhance the quality of the input images, improving the model's accuracy.
